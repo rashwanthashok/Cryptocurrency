@@ -17,7 +17,7 @@ This is a cryptocurrency information website built using HTML, CSS, and JavaScri
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Cryptocurrency-info/
+     https://rashwanthashok.github.io/Cryptocurrency/
 ## Getting Started
 
 Getting Started with the Cryptocurrency Info Site:
