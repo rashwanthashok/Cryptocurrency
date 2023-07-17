@@ -78,6 +78,10 @@ Features:
 
 
 Note: The code can be further edited to enhance its attractiveness and security. Feel free to modify the HTML, CSS, or JavaScript files to add more features or customize the design according to your requirements.
+
+## Deployment status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d05a2d62-b014-48f0-9321-788e3786e210/deploy-status)](https://app.netlify.com/sites/jsprojects27-cryptocurrency/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
